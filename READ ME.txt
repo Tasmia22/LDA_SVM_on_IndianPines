@@ -1,0 +1,2 @@
+Dimension Reduction of the Indian Pines HyperSpectral dataset using feature exraction method LDA.
+And classifying with SVM classifier (with the parameters tuned)
